@@ -150,8 +150,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
+![proj5 ss](https://github.com/user-attachments/assets/08dad0b5-3c68-468d-981c-d3a5e7e587ef)
 
-![alt text](<Screenshot 2025-05-11 190818.png>)
 
 
 ## RESULT:
